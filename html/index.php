@@ -73,7 +73,7 @@
     </div>
    
 
-    <h1> Micah Shallom Bawa WebPage!</h1>
+    <h1> Micah Shallom Bawa WebPage</h1>
     <h2 id="test">Propitix.io</h2>
 
 
